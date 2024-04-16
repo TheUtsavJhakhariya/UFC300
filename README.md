@@ -1,4 +1,4 @@
-# Welcome to UFC 300 Event Landing Page! 🥊🚀
+# Welcome to the UFC 300 Event Landing Page! 🥊🚀
 
 Welcome, fight fans, to the **most electrifying event landing page on the web**! Get ready to experience the adrenaline rush of UFC 300 like never before. Whether you're a seasoned MMA enthusiast or a curious newcomer, this page has something for everyone. Strap in and let's dive into the action!
 
@@ -11,6 +11,8 @@ Welcome, fight fans, to the **most electrifying event landing page on the web**!
 📰 **Future Fight News & Announcements:** Stay in the know with the latest updates on future fights and event announcements. You won't miss a beat!
 
 🔥 **Trending Blogs:** Dive into the buzz surrounding UFC 300 and Powerslap with our curated selection of trending blogs. Get ready to join the conversation!
+
+💻 **Custom Cursor:** Experience the UFC 300 landing page with our unique custom cursor featuring the 30th-anniversary UFC logo.
 
 ## Technologies Used
 
